@@ -34,3 +34,5 @@ for file in files:
     os.rename(file,new_name)
 
     print(f"Renamed: {file}->{new_name}")
+
+
